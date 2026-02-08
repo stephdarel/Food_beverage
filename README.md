@@ -19,7 +19,7 @@ Le projet couvre :
 - **Streamlit** : dashboards lisant directement les tables SILVER
 
 ---
-
+```
 ## Structure du projet
 Food_beverage/
 ├── sql/
@@ -36,7 +36,7 @@ Food_beverage/
 │ └── marketing_dashboard.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Installation
@@ -88,11 +88,15 @@ commits individuels
 
 merges vers main
 
-Auteurs
-Stephane 
-Christian
-Monica
-Brenda
+## Auteurs
+
+Stephane NZATI
+
+Christian SONTSA
+
+Monica MBOULA
+
+Brenda SAMA
 
 
 
