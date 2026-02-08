@@ -49,10 +49,15 @@ pip install -r requirements.txt
 Créer un fichier .env à la racine du projet :
 
 SNOWFLAKE_USER=...
+
 SNOWFLAKE_PASSWORD=...
+
 SNOWFLAKE_ACCOUNT=...
+
 SNOWFLAKE_WAREHOUSE=ANALYTICS_WH
+
 SNOWFLAKE_DATABASE=ANYCOMPANY_LAB
+
 SNOWFLAKE_SCHEMA=SILVER
 
 
